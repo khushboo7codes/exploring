@@ -1,4 +1,4 @@
 # exploring
 This is my first Git repository 
-<b>
+</b>
 Author - khushboo pareek
