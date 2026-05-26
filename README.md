@@ -1,4 +1,5 @@
-#Hii, I'm khushboo pareek
+#Hii<br>
+I'm khushboo pareek
 First year btech student @ nit silchar
 <br>
 learning C++,Web development
@@ -7,7 +8,8 @@ exploring open source and Github
 <br>
 currently improving dsa 
 <br>
-#skill
+#SKILL
+<br>
 c
 <br>
 c++
