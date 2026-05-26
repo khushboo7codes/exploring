@@ -21,6 +21,3 @@
 - C & C++ Practice Programs
 - HTML Beginner Projects
 - GitHub Learning Repository
-
-## Connect With Me
-- LinkedIn: add-your-link-here
