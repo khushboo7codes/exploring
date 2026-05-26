@@ -1,4 +1,17 @@
-# exploring
-This is my first Git repository 
+#Hii, I'm khushboo pareek
+First year btech student @ nit silchar
 <br>
-Author - khushboo pareek
+learning C++,Web development
+<br>
+exploring open source and Github
+<br>
+currently improving dsa 
+<br>
+#skill
+c
+<br>
+c++
+<br>
+html
+<br>
+
